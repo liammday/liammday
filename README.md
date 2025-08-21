@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @liammday
-- 👀 I’m interested in SwiftUI development and building HealthKit.
-- 🌱 I’m currently learning iOS 16's new APIs!
-- 💞️ I’m looking to collaborate on iOS developments of any kind.
+- 👀 I’m interested in SwiftUI development and building health and navigation based apps.
 - 📫 How to reach me - go to www.liamday.co.uk
 
 <!---
